@@ -1,2 +1,2 @@
 
-In the last theme, I created a testable mini application. For this, I worked in parallel with Maven, PostgreSQL and Postman. Basically, I created a database and implemented different endpoints, using appropriate HTTP methods
+In the last theme, I created a testable mini application. For this, I worked in parallel with Maven, PostgreSQL and Postman. Basically, I created a database and implemented different endpoints, using appropriate HTTP methods:)
